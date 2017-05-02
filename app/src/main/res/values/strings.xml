@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">First App </string>
+    <string name="btn_1">Tap Me!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_2">Second Activity</string>
+</resources>
